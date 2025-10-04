@@ -1,0 +1,32 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Flower petals -->
+  <!-- Top petal (orange) -->
+  <ellipse cx="400" cy="180" rx="35" ry="80" fill="#FF6B35" transform="rotate(0 400 180)"/>
+  
+  <!-- Top-left petal (green) -->
+  <ellipse cx="320" cy="220" rx="35" ry="80" fill="#8BC34A" transform="rotate(-60 320 220)"/>
+  
+  <!-- Top-right petal (green) -->
+  <ellipse cx="480" cy="220" rx="35" ry="80" fill="#8BC34A" transform="rotate(60 480 220)"/>
+  
+  <!-- Bottom-left petal (orange) -->
+  <ellipse cx="320" cy="280" rx="35" ry="80" fill="#FF6B35" transform="rotate(-120 320 280)"/>
+  
+  <!-- Bottom-right petal (orange) -->
+  <ellipse cx="480" cy="280" rx="35" ry="80" fill="#FF6B35" transform="rotate(120 480 280)"/>
+  
+  <!-- Center circle (green) -->
+  <circle cx="400" cy="250" r="15" fill="#8BC34A"/>
+  
+  <!-- CMR Text -->
+  <text x="400" y="380" font-family="Arial, sans-serif" font-size="120" font-weight="bold" text-anchor="middle" fill="#1B365D">CMR</text>
+  
+  <!-- Institute of Technology -->
+  <text x="400" y="430" font-family="Arial, sans-serif" font-size="24" font-weight="normal" text-anchor="middle" fill="#1B365D">INSTITUTE OF TECHNOLOGY</text>
+  
+  <!-- Divider line -->
+  <line x1="200" y1="450" x2="600" y2="450" stroke="#FF6B35" stroke-width="2"/>
+  
+  <!-- Explore to Invent -->
+  <text x="400" y="480" font-family="Arial, sans-serif" font-size="18" font-weight="normal" text-anchor="middle" fill="#1B365D" letter-spacing="8px">EXPLORE TO INVENT</text>
+</svg>
